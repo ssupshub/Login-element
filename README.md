@@ -1,5 +1,4 @@
 
-```markdown
 # Luxury Login Page
 
 This project is a high-end, premium login page built using Python, Flask, HTML, CSS, and MongoDB. The design reflects a luxury aesthetic, simulating the look and feel of a sophisticated website.

@@ -91,13 +91,6 @@ Open your web browser and navigate to `http://127.0.0.1:5000/`. You should see t
 
 Use the credentials you created in the MongoDB database to log in. If the credentials are correct, you will be redirected to a welcome page.
 
-## Customization
-
-Feel free to customize the HTML and CSS files to match your desired aesthetic. You can also expand the functionality by adding features like password recovery, user registration, etc.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
